@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-<!--
-**altamashnaseem/altamashnaseem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - # 💫 About Me:
 🚀 About Me: A passionate Web Developer and DSA Problem Solver pursuing a B.Tech in CSE.<br>💼 Currently Working On: Enhancing web projects and sharpening my DSA skills.<br>🤝 Looking to Collaborate On: Impactful web development projects and open-source contributions.<br>❓ Looking for Help With: Advanced DSA concepts and open-source contributions.<br>📚 Currently Learning: Advanced web frameworks, algorithm optimization, and emerging
